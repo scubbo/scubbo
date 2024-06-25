@@ -2,7 +2,7 @@ Pronouns: He/Him
 
 # Professional History
 
-After graduating with a degree in Mathematics and spending a year with a small web development company, I worked for 10 years with Amazon - 4 with Amazon Video in London, and 6 with Amazon Music in San Francisco, ending up as the Tech Lead for the Music Metrics and Data Platform organization. Upon recognizing the inevitable incipient burnout, I took 6 months off of work to recuperate. Since I'd been interested in resiliency and quality development practices while at Amazon (in my spare time I wrote the first version of what eventually became Amazon's Load Test coordination tool, and I led the Incident Analysis group in Music alongside my day job), I've moved into an SRE role at LegalZoom.
+After graduating with a degree in Mathematics and spending a year with a small web development company, I worked for 10 years with Amazon - 4 with Amazon Video in London, and 6 with Amazon Music in San Francisco, ending up as the Tech Lead for the Music Metrics and Data Platform organization. Upon recognizing the inevitable incipient burnout, I took 6 months off of work to recuperate. Since I'd been interested in resiliency and quality development practices while at Amazon (in my spare time I wrote the first version of what eventually became Amazon's Load Test coordination tool, and I led the Incident Analysis group in Music alongside my day job), I've moved into an SRE role at LegalZoom as of January 2023.
 
 # Personal Work
 
