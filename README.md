@@ -10,6 +10,10 @@ I run a homelab as a testbed for tinkering and learning, mostly with k8s-/GitOps
 
 I blog about technology and other things [here](https://blog.scubbo.org). The majority of my own code lives on my [personal Gitea instance](https://gitea.scubbo.org/) rather than on GitHub itself - this account is just for collaborating with others.
 
+# Contact and Socials
+
+[Mastodon](https://fosstodon.org/@scubbo) is my main Social Media app nowadays. I'm reachable via email at `me@scubbo.org`.
+
 <!--
 **scubbo/scubbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
