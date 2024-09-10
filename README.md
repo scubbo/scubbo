@@ -12,6 +12,13 @@ I run a homelab as a testbed for tinkering and learning, mostly with k8s-/GitOps
 
 I blog about technology and other things [here](https://blog.scubbo.org). The majority of my own code lives on my [personal Gitea instance](https://gitea.scubbo.org/) rather than on GitHub itself - this account is just for collaborating with others.
 
+# References
+
+A small collection of articles that I found formative and helpful:
+
+* [Manual Work Is A Bug](https://queue.acm.org/detail.cfm?id=3197520)
+* The [Many More Much Smaller Steps](https://www.geepawhill.org/series/many-more-much-smaller-steps/) series by Geepaw Hill, and [Structual And Behavioural Changes](https://medium.com/@kentbeck_7670/bs-changes-e574bc396aaa) by Kent Beck
+
 # Contact and Socials
 
 [Mastodon](https://fosstodon.org/@scubbo) is my main Social Media app nowadays. I'm reachable via email at `me@scubbo.org`.
