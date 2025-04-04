@@ -1,6 +1,6 @@
 Pronouns: He/Him
 
-**This account is mostly unused - the majority of my repositories are in my [self-hosted Gitea instance](https://gitea.scubbo.org), and my prose on my [blog](https://blog.scubbo.org).**
+**This account is mostly unused - the majority of my repositories are in my [self-hosted Gitea instance](https://gitea.scubbo.org)[^contribution], and my prose on my [blog](https://blog.scubbo.org).**
 
 # Professional History
 
@@ -49,7 +49,7 @@ Content related to the processes of understanding, editing, committing, reviewin
 * [Writing Maintainable Code Is A Communication Skill](https://news.ycombinator.com/item?id=29396515) - asserts that maintainable code is that which clearly communicates "_How?_", "_What?_", and "_Why?_" to a reader (albeit some of that context might more-properly belong in commit messages than in the code _itself_)
 * [What Does Debugging Look Like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources) - one key concept not explicitly listed here; "_If your code was working how you believe, expect, and assume that it does/should, then you wouldn't be debugging it. Ergo, at least one of your beliefs, expectations, or assumptions is wrong. Prove everything_"
 * [Structural And Behavioural Changes](https://medium.com/@kentbeck_7670/bs-changegs-e574bc396aaa) - pairs well with [Many More Much Smaller Steps](https://www.geepawhill.org/2021/09/29/many-more-much-smaller-steps-first-sketch)
-* [How To Write A Good Commit Message](https://chris.beams.io/posts/git-commit) - a drastically under-rated skill. Like linters/auto-formatters, good commit messages are not going to magically make your bad code good - but both have an absurdly-high rate-of-return on the effort that they take. Use of imperative vs. indicative mood is pure bike-shedding, but "_Use the body to explain whhat and why, not how_" is Unarguable Physical Fact and I will fite you IRL.
+* [How To Write A Good Commit Message](https://chris.beams.io/posts/git-commit) - a drastically under-rated skill. Like linters/auto-formatters, good commit messages are not going to magically make your bad code good - but both have an absurdly-high rate-of-return on the effort that they take. Use of imperative vs. indicative mood is pure bike-shedding, but "_Use the body to explain what and why, not how_" is Unarguable Physical Fact and I will fite you IRL.
 * A dyad from Slack on Codde Reviews;
   * [Submitting](https://slack.engineering/on-empathy-pull-requests-979e4257d158)
   * [Reviewing](https://slack.engineering/how-about-code-reviews-2695fb10d034)
@@ -81,8 +81,10 @@ Content related to the processes of understanding, editing, committing, reviewin
 * [Efficiency Is The Enemy](https://fs.blog/2021/05/slack) - an exploration ofthe fact that a fully-packed calendar/to-do list makes you _less_ flexible and agile. There needs to be some "slack in the system" to allow it(/you/your team) to adjust to high-value unforeseen opportunities.
   * See also [The Most Important Thing To Understand About Queues](https://blog.danslimmon.com/2016/08/26/the-most-important-thing-to-understand-about-queues) for a mathematical perspective. If you find yourself nitpicking the statement about induction, see [this HN comment](https://news.ycombinator.com/item?id=30601286)
 * [The Only Out-Of-Office Auto-reply You Will Ever Need](https://www.theladders.com/career-advice/the-only-out-of-office-autoreply-you-need)
-* [It's Now Your Fault They Don't Know About It](https://rachelbythebay.com/w/2022/03/02/wrong) - outlines a particularly toxic interaction pattern with coworkers. It's implied in thhe article, but, explicitly - when you identify thhis pattern, by all means try to call it out (tactfully) as early as possible, but don't hold out much hhope that they will change their behaviour. Rather, find the most benficial way to work _around_ their intransigency, while maintaining your own peace of mind - from the [Hacker News comments](https://news.ycombinator.com/item?id=30542528) "_What I find scary is that if you work in a sufficiently toxic environment/cultur for long enough, that very behaviour that you try to fight against and change begins to seep into your everyday actions. I've seen myself go from 'positive and helpful' to 'apathetic and helpful' to 'not caring at all' to 'chippy, negative, and unhelpful' before_"
+* [It's Now Your Fault They Don't Know About It](https://rachelbythebay.com/w/2022/03/02/wrong) - outlines a particularly toxic interaction pattern with coworkers. It's implied in the article, but, explicitly - when you identify thhis pattern, by all means try to call it out (tactfully) as early as possible, but don't hold out much hope that they will change their behaviour. Rather, find the most benficial way to work _around_ their intransigency, while maintaining your own peace of mind - from the [Hacker News comments](https://news.ycombinator.com/item?id=30542528) "_What I find scary is that if you work in a sufficiently toxic environment/cultur for long enough, that very behaviour that you try to fight against and change begins to seep into your everyday actions. I've seen myself go from 'positive and helpful' to 'apathetic and helpful' to 'not caring at all' to 'chippy, negative, and unhelpful' before_"
 
 # Contact and Socials
 
 [Mastodon](https://fosstodon.org/@scubbo) is my main Social Media app nowadays. I'm reachable via email at `me@scubbo.org`.
+
+[^contribution]: Though if you're looking at the contribution-graph, note that an upgrade in early 2025 nuked the history of the pretty ~~green~~ blue squares that we crave so much.
